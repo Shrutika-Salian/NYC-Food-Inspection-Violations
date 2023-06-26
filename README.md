@@ -16,15 +16,12 @@ Project Highlights
 • Performing outlier detection and handling to identify and address data points that deviate significantly from the norm.
 
 • Removing duplicates and redundant records to maintain data integrity.
+
 • Optimized ETL jobs by deploying a master job and implementing parallelization, resulting in faster data loading time of 30 minutes.
 
 • Conducted deep data analysis by creating interactive visualizations using PowerBI. Generated insights such as the highest number of collisions occurring on weekends, the increase in collisions during the fall season, and the top 10 vehicles involved in crashes,Time of collisions.
 
 • Performed advanced SQL queries to verify the accuracy of numbers and metrics in reports and supported further data analysis.
-
-ER Model:
-
-image
 
 Getting Started
 
